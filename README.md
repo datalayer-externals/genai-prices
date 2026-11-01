@@ -33,6 +33,7 @@ The following providers are currently supported:
 
 [comment]: <> (providers-start)
 
+- [Alibaba Cloud Model Studio](prices/providers/alibaba.yml) - 1 models
 - [Anthropic](prices/providers/anthropic.yml) - 27 models
 - [Arcee](prices/providers/arcee.yml) - 10 models
 - [Avian](prices/providers/avian.yml) - 24 models

@@ -9,6 +9,47 @@ __all__ = ('providers',)
 
 providers: list[Provider] = [
     Provider(
+        id='alibaba',
+        name='Alibaba Cloud Model Studio',
+        api_pattern='https://[a-z0-9.-]+\\.(maas\\.aliyuncs\\.com|dashscope-intl\\.aliyuncs\\.com)|https://dashscope-intl\\.aliyuncs\\.com',
+        pricing_urls=['https://www.alibabacloud.com/help/en/model-studio/model-pricing'],
+        price_comments='Prices are those of the Singapore (International) region, in USD. Model Studio prices the same model differently by region, and China (Beijing) is much lower.',
+        provider_match=ClauseOr(
+            or_=[ClauseEquals(equals='alibaba'), ClauseEquals(equals='alibaba-cloud'), ClauseEquals(equals='dashscope')]
+        ),
+        extractors=[
+            UsageExtractor(
+                root='usage',
+                mappings=[
+                    UsageExtractorMapping(path='prompt_tokens', dest='input_tokens', required=True),
+                    UsageExtractorMapping(
+                        path=['prompt_tokens_details', 'cached_tokens'], dest='cache_read_tokens', required=False
+                    ),
+                    UsageExtractorMapping(
+                        path=['completion_tokens_details', 'reasoning_tokens'],
+                        dest='output_reasoning_tokens',
+                        required=False,
+                    ),
+                    UsageExtractorMapping(path='completion_tokens', dest='output_tokens', required=True),
+                ],
+                api_flavor='chat',
+                model_path='model',
+            )
+        ],
+        models=[
+            ModelInfo(
+                id='qwen-max',
+                match=ClauseOr(or_=[ClauseEquals(equals='qwen-max'), ClauseEquals(equals='qwen-max-2025-01-25')]),
+                name='Qwen-Max',
+                description='Qwen-Max on Alibaba Cloud Model Studio, functionally equivalent to the snapshot qwen-max-2025-01-25.',
+                context_window=32768,
+                prices=ModelPrice(
+                    input_mtok=Decimal('1.6'), cache_read_mtok=Decimal('0.32'), output_mtok=Decimal('6.4')
+                ),
+            )
+        ],
+    ),
+    Provider(
         id='anthropic',
         name='Anthropic',
         api_pattern='https://api\\.anthropic\\.com',

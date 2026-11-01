@@ -2,6 +2,79 @@
 import type { Provider } from './types'
 export const data: Provider[] = [
   {
+    id: 'alibaba',
+    name: 'Alibaba Cloud Model Studio',
+    pricing_urls: ['https://www.alibabacloud.com/help/en/model-studio/model-pricing'],
+    api_pattern: 'https://[a-z0-9.-]+\\.(maas\\.aliyuncs\\.com|dashscope-intl\\.aliyuncs\\.com)|https://dashscope-intl\\.aliyuncs\\.com',
+    price_comments:
+      'Prices are those of the Singapore (International) region, in USD. Model Studio prices the same model differently by region, and China (Beijing) is much lower.',
+    provider_match: {
+      or: [
+        {
+          equals: 'alibaba',
+        },
+        {
+          equals: 'alibaba-cloud',
+        },
+        {
+          equals: 'dashscope',
+        },
+      ],
+    },
+    extractors: [
+      {
+        api_flavor: 'chat',
+        root: 'usage',
+        model_path: 'model',
+        mappings: [
+          {
+            path: 'prompt_tokens',
+            dest: 'input_tokens',
+            required: true,
+          },
+          {
+            path: ['prompt_tokens_details', 'cached_tokens'],
+            dest: 'cache_read_tokens',
+            required: false,
+          },
+          {
+            path: ['completion_tokens_details', 'reasoning_tokens'],
+            dest: 'output_reasoning_tokens',
+            required: false,
+          },
+          {
+            path: 'completion_tokens',
+            dest: 'output_tokens',
+            required: true,
+          },
+        ],
+      },
+    ],
+    models: [
+      {
+        id: 'qwen-max',
+        name: 'Qwen-Max',
+        description: 'Qwen-Max on Alibaba Cloud Model Studio, functionally equivalent to the snapshot qwen-max-2025-01-25.',
+        match: {
+          or: [
+            {
+              equals: 'qwen-max',
+            },
+            {
+              equals: 'qwen-max-2025-01-25',
+            },
+          ],
+        },
+        context_window: 32768,
+        prices: {
+          input_mtok: 1.6,
+          cache_read_mtok: 0.32,
+          output_mtok: 6.4,
+        },
+      },
+    ],
+  },
+  {
     id: 'anthropic',
     name: 'Anthropic',
     pricing_urls: ['https://www.anthropic.com/pricing#api'],
