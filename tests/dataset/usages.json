@@ -9818,6 +9818,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -10084,21 +10088,8 @@
         "extractors": [
           {
             "api_flavor": "chat",
-            "provider_id": "anthropic"
+            "provider_id": "alibaba"
           },
-          {
-            "api_flavor": "chat",
-            "provider_id": "cerebras"
-          }
-        ],
-        "usage": {
-          "input_tokens": 687,
-          "output_reasoning_tokens": 165,
-          "output_tokens": 240
-        }
-      },
-      {
-        "extractors": [
           {
             "api_flavor": "default",
             "provider_id": "arcee"
@@ -10286,6 +10277,23 @@
       {
         "extractors": [
           {
+            "api_flavor": "chat",
+            "provider_id": "anthropic"
+          },
+          {
+            "api_flavor": "chat",
+            "provider_id": "cerebras"
+          }
+        ],
+        "usage": {
+          "input_tokens": 687,
+          "output_reasoning_tokens": 165,
+          "output_tokens": 240
+        }
+      },
+      {
+        "extractors": [
+          {
             "api_flavor": "embeddings",
             "provider_id": "azure"
           },
@@ -10394,6 +10402,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -10658,6 +10670,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -10918,6 +10934,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -11197,6 +11217,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -11474,6 +11498,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -11756,6 +11784,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -12029,6 +12061,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -12308,6 +12344,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -12583,6 +12623,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -12856,6 +12900,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -13135,6 +13183,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -13395,6 +13447,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -13688,6 +13744,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -13985,6 +14045,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -14280,6 +14344,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -14555,6 +14623,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -14833,6 +14905,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -15105,6 +15181,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -15369,6 +15449,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -15648,6 +15732,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -15912,6 +16000,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -16189,6 +16281,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -16474,6 +16570,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -16775,6 +16875,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -17066,6 +17170,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -17331,6 +17439,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -17618,6 +17730,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -17901,6 +18017,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -28433,6 +28553,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -28935,6 +29059,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -29192,6 +29320,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -29512,6 +29644,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -29799,6 +29935,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -30334,6 +30474,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -30621,6 +30765,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -31205,6 +31353,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -31804,6 +31956,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -32077,6 +32233,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -32474,6 +32634,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -32886,6 +33050,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -33181,6 +33349,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -33467,6 +33639,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -33725,6 +33901,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -34013,6 +34193,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -34316,6 +34500,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -34574,6 +34762,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -34865,6 +35057,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -35132,6 +35328,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -35409,6 +35609,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -35704,6 +35908,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -36104,6 +36312,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -37062,6 +37274,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -37509,6 +37725,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -37949,6 +38169,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -38383,6 +38607,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -38644,6 +38872,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -39606,6 +39838,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -39895,36 +40131,8 @@
         "extractors": [
           {
             "api_flavor": "chat",
-            "provider_id": "anthropic"
+            "provider_id": "alibaba"
           },
-          {
-            "api_flavor": "chat",
-            "provider_id": "cerebras"
-          },
-          {
-            "api_flavor": "default",
-            "provider_id": "databricks"
-          },
-          {
-            "api_flavor": "chat",
-            "provider_id": "databricks"
-          },
-          {
-            "api_flavor": "default",
-            "provider_id": "perplexity"
-          },
-          {
-            "api_flavor": "default",
-            "provider_id": "x-ai"
-          }
-        ],
-        "usage": {
-          "input_tokens": 4020,
-          "output_tokens": 4
-        }
-      },
-      {
-        "extractors": [
           {
             "api_flavor": "default",
             "provider_id": "arcee"
@@ -40127,6 +40335,38 @@
       {
         "extractors": [
           {
+            "api_flavor": "chat",
+            "provider_id": "anthropic"
+          },
+          {
+            "api_flavor": "chat",
+            "provider_id": "cerebras"
+          },
+          {
+            "api_flavor": "default",
+            "provider_id": "databricks"
+          },
+          {
+            "api_flavor": "chat",
+            "provider_id": "databricks"
+          },
+          {
+            "api_flavor": "default",
+            "provider_id": "perplexity"
+          },
+          {
+            "api_flavor": "default",
+            "provider_id": "x-ai"
+          }
+        ],
+        "usage": {
+          "input_tokens": 4020,
+          "output_tokens": 4
+        }
+      },
+      {
+        "extractors": [
+          {
             "api_flavor": "embeddings",
             "input_price": "0.0201",
             "output_price": "0",
@@ -40175,6 +40415,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -40824,6 +41068,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -41085,6 +41333,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -41546,6 +41798,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -41839,6 +42095,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -42460,6 +42720,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -42718,6 +42982,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -43463,6 +43731,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -43721,6 +43993,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -44123,6 +44399,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -44381,6 +44661,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -46135,6 +46419,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -46561,6 +46849,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -46819,6 +47111,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -47616,6 +47912,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -48105,6 +48405,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -48932,6 +49236,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -49733,6 +50041,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -50008,6 +50320,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -50299,6 +50615,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -50560,6 +50880,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -50966,6 +51290,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -51334,6 +51662,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -51609,6 +51941,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -52035,6 +52371,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -53239,6 +53579,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -53497,6 +53841,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -54270,6 +54618,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -54533,6 +54885,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -54794,6 +55150,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -55340,6 +55700,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -55607,6 +55971,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -55884,6 +56252,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -56575,6 +56947,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -56850,6 +57226,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -57168,6 +57548,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -57872,6 +58256,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -58535,6 +58923,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -59630,6 +60022,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -60671,6 +61067,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -61080,6 +61480,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -61355,6 +61759,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -61652,6 +62060,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -61927,6 +62339,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -63343,6 +63759,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -63604,6 +64024,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -63873,6 +64297,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -64168,6 +64596,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -64641,6 +65073,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -64899,6 +65335,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -65758,6 +66198,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -66259,6 +66703,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -66578,6 +67026,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -66996,6 +67448,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -67257,6 +67713,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -67754,6 +68214,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -68864,6 +69328,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -69284,6 +69752,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -69965,6 +70437,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -70240,6 +70716,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -70531,6 +71011,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -70792,6 +71276,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -71061,6 +71549,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -71419,6 +71911,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -71694,6 +72190,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -72107,6 +72607,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -72445,6 +72949,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -72705,6 +73213,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -73309,6 +73821,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -74342,6 +74858,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -74600,6 +75120,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -75087,6 +75611,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -75345,6 +75873,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -75767,6 +76299,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -77944,6 +78480,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -78919,6 +79459,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -79646,6 +80190,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -79904,6 +80452,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -80258,6 +80810,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -80533,6 +81089,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -80937,6 +81497,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -81195,6 +81759,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -82503,6 +83071,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -82796,6 +83368,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -83420,6 +83996,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -83681,6 +84261,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -83970,6 +84554,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -84489,6 +85077,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -84747,6 +85339,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -85842,6 +86438,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -86100,6 +86700,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -87404,6 +88008,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -87698,6 +88306,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -87973,6 +88585,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -88264,6 +88880,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -88527,6 +89147,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -88788,6 +89412,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -89305,6 +89933,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -90357,6 +90989,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -90632,6 +91268,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -91113,6 +91753,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -91371,6 +92015,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -91636,6 +92284,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -91894,6 +92546,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -92972,6 +93628,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -93230,6 +93890,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -95366,6 +96030,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -95624,6 +96292,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -95947,6 +96619,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -96208,6 +96884,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -96751,6 +97431,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -97019,6 +97703,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -97280,6 +97968,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -97630,6 +98322,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -97905,6 +98601,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -98289,6 +98989,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -98564,6 +99268,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -98902,6 +99610,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -99160,6 +99872,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -99881,6 +100597,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -100147,6 +100867,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -100428,6 +101152,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -100707,6 +101435,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -100984,6 +101716,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -101266,6 +102002,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -101539,6 +102279,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -101809,6 +102553,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -102090,6 +102838,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -102367,6 +103119,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -103889,6 +104645,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -104144,6 +104904,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -104403,6 +105167,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -104660,6 +105428,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -104915,6 +105687,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -105182,6 +105958,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -105459,6 +106239,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -105876,6 +106660,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -106149,6 +106937,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -106568,6 +107360,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -106845,6 +107641,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -107112,6 +107912,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -107369,6 +108173,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -107638,6 +108446,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -107916,6 +108728,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -108200,6 +109016,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -108495,6 +109315,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -108768,6 +109592,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -109047,6 +109875,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -109324,6 +110156,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -109597,6 +110433,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -109874,6 +110714,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -110147,6 +110991,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -110426,6 +111274,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -110701,6 +111553,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -110980,6 +111836,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -111257,6 +112117,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -111525,6 +112389,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -111810,6 +112678,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -112087,6 +112959,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -112362,6 +113238,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -112772,6 +113652,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -113063,6 +113947,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -113358,6 +114246,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -113628,6 +114520,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -113888,6 +114784,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -114157,6 +115057,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -114436,6 +115340,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -114711,6 +115619,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -114990,6 +115902,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -115265,6 +116181,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -115544,6 +116464,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -115819,6 +116743,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -116098,6 +117026,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -116373,6 +117305,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -116652,6 +117588,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -116929,6 +117869,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -117195,6 +118139,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -117588,6 +118536,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -117861,6 +118813,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -118140,6 +119096,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -118415,6 +119375,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -118694,6 +119658,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -118967,6 +119935,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -119348,6 +120320,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -119625,6 +120601,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -119900,6 +120880,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -120319,6 +121303,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -120594,6 +121582,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -120996,6 +121988,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -123477,6 +124473,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -123737,6 +124737,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -124001,6 +125005,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -124260,6 +125268,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -124517,6 +125529,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -124781,6 +125797,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -125043,36 +126063,8 @@
         "extractors": [
           {
             "api_flavor": "chat",
-            "provider_id": "anthropic"
+            "provider_id": "alibaba"
           },
-          {
-            "api_flavor": "chat",
-            "provider_id": "cerebras"
-          },
-          {
-            "api_flavor": "default",
-            "provider_id": "databricks"
-          },
-          {
-            "api_flavor": "chat",
-            "provider_id": "databricks"
-          },
-          {
-            "api_flavor": "default",
-            "provider_id": "perplexity"
-          },
-          {
-            "api_flavor": "default",
-            "provider_id": "x-ai"
-          }
-        ],
-        "usage": {
-          "input_tokens": 268,
-          "output_tokens": 5
-        }
-      },
-      {
-        "extractors": [
           {
             "api_flavor": "default",
             "provider_id": "arcee"
@@ -125269,6 +126261,38 @@
       {
         "extractors": [
           {
+            "api_flavor": "chat",
+            "provider_id": "anthropic"
+          },
+          {
+            "api_flavor": "chat",
+            "provider_id": "cerebras"
+          },
+          {
+            "api_flavor": "default",
+            "provider_id": "databricks"
+          },
+          {
+            "api_flavor": "chat",
+            "provider_id": "databricks"
+          },
+          {
+            "api_flavor": "default",
+            "provider_id": "perplexity"
+          },
+          {
+            "api_flavor": "default",
+            "provider_id": "x-ai"
+          }
+        ],
+        "usage": {
+          "input_tokens": 268,
+          "output_tokens": 5
+        }
+      },
+      {
+        "extractors": [
+          {
             "api_flavor": "embeddings",
             "provider_id": "azure"
           },
@@ -125440,6 +126464,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -142029,6 +143057,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -142292,6 +143324,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -142551,6 +143587,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -142826,6 +143866,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -143131,6 +144175,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -143404,6 +144452,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -143675,6 +144727,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -143952,6 +145008,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -144213,6 +145273,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -144490,6 +145554,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -144753,6 +145821,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -145014,6 +146086,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -145320,6 +146396,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -145643,6 +146723,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -145905,6 +146989,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -146234,21 +147322,8 @@
         "extractors": [
           {
             "api_flavor": "chat",
-            "provider_id": "anthropic"
+            "provider_id": "alibaba"
           },
-          {
-            "api_flavor": "chat",
-            "provider_id": "cerebras"
-          }
-        ],
-        "usage": {
-          "input_tokens": 336,
-          "output_reasoning_tokens": 59,
-          "output_tokens": 96
-        }
-      },
-      {
-        "extractors": [
           {
             "api_flavor": "default",
             "provider_id": "arcee"
@@ -146478,6 +147553,23 @@
       {
         "extractors": [
           {
+            "api_flavor": "chat",
+            "provider_id": "anthropic"
+          },
+          {
+            "api_flavor": "chat",
+            "provider_id": "cerebras"
+          }
+        ],
+        "usage": {
+          "input_tokens": 336,
+          "output_reasoning_tokens": 59,
+          "output_tokens": 96
+        }
+      },
+      {
+        "extractors": [
+          {
             "api_flavor": "embeddings",
             "provider_id": "azure"
           },
@@ -146579,21 +147671,8 @@
         "extractors": [
           {
             "api_flavor": "chat",
-            "provider_id": "anthropic"
+            "provider_id": "alibaba"
           },
-          {
-            "api_flavor": "chat",
-            "provider_id": "cerebras"
-          }
-        ],
-        "usage": {
-          "input_tokens": 563,
-          "output_reasoning_tokens": 60,
-          "output_tokens": 116
-        }
-      },
-      {
-        "extractors": [
           {
             "api_flavor": "default",
             "provider_id": "arcee"
@@ -146787,6 +147866,23 @@
       {
         "extractors": [
           {
+            "api_flavor": "chat",
+            "provider_id": "anthropic"
+          },
+          {
+            "api_flavor": "chat",
+            "provider_id": "cerebras"
+          }
+        ],
+        "usage": {
+          "input_tokens": 563,
+          "output_reasoning_tokens": 60,
+          "output_tokens": 116
+        }
+      },
+      {
+        "extractors": [
+          {
             "api_flavor": "embeddings",
             "input_price": "0.00007882",
             "output_price": "0.00",
@@ -146888,6 +147984,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -147181,21 +148281,8 @@
         "extractors": [
           {
             "api_flavor": "chat",
-            "provider_id": "anthropic"
+            "provider_id": "alibaba"
           },
-          {
-            "api_flavor": "chat",
-            "provider_id": "cerebras"
-          }
-        ],
-        "usage": {
-          "input_tokens": 976,
-          "output_reasoning_tokens": 25,
-          "output_tokens": 61
-        }
-      },
-      {
-        "extractors": [
           {
             "api_flavor": "default",
             "provider_id": "arcee"
@@ -147389,6 +148476,23 @@
       {
         "extractors": [
           {
+            "api_flavor": "chat",
+            "provider_id": "anthropic"
+          },
+          {
+            "api_flavor": "chat",
+            "provider_id": "cerebras"
+          }
+        ],
+        "usage": {
+          "input_tokens": 976,
+          "output_reasoning_tokens": 25,
+          "output_tokens": 61
+        }
+      },
+      {
+        "extractors": [
+          {
             "api_flavor": "embeddings",
             "input_price": "0.00013664",
             "output_price": "0.00",
@@ -147490,6 +148594,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -147779,6 +148887,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -148062,6 +149174,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -148349,6 +149465,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -148632,6 +149752,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -148921,21 +150045,8 @@
         "extractors": [
           {
             "api_flavor": "chat",
-            "provider_id": "anthropic"
+            "provider_id": "alibaba"
           },
-          {
-            "api_flavor": "chat",
-            "provider_id": "cerebras"
-          }
-        ],
-        "usage": {
-          "input_tokens": 435,
-          "output_reasoning_tokens": 56,
-          "output_tokens": 73
-        }
-      },
-      {
-        "extractors": [
           {
             "api_flavor": "default",
             "provider_id": "arcee"
@@ -149125,6 +150236,23 @@
       {
         "extractors": [
           {
+            "api_flavor": "chat",
+            "provider_id": "anthropic"
+          },
+          {
+            "api_flavor": "chat",
+            "provider_id": "cerebras"
+          }
+        ],
+        "usage": {
+          "input_tokens": 435,
+          "output_reasoning_tokens": 56,
+          "output_tokens": 73
+        }
+      },
+      {
+        "extractors": [
+          {
             "api_flavor": "embeddings",
             "provider_id": "azure"
           },
@@ -149222,6 +150350,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -149507,6 +150639,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -150585,6 +151721,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -150871,36 +152011,8 @@
         "extractors": [
           {
             "api_flavor": "chat",
-            "provider_id": "anthropic"
+            "provider_id": "alibaba"
           },
-          {
-            "api_flavor": "chat",
-            "provider_id": "cerebras"
-          },
-          {
-            "api_flavor": "default",
-            "provider_id": "databricks"
-          },
-          {
-            "api_flavor": "chat",
-            "provider_id": "databricks"
-          },
-          {
-            "api_flavor": "default",
-            "provider_id": "perplexity"
-          },
-          {
-            "api_flavor": "default",
-            "provider_id": "x-ai"
-          }
-        ],
-        "usage": {
-          "input_tokens": 3329,
-          "output_tokens": 53
-        }
-      },
-      {
-        "extractors": [
           {
             "api_flavor": "default",
             "provider_id": "arcee"
@@ -150968,6 +152080,38 @@
         ],
         "usage": {
           "cache_read_tokens": 3211,
+          "input_tokens": 3329,
+          "output_tokens": 53
+        }
+      },
+      {
+        "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "anthropic"
+          },
+          {
+            "api_flavor": "chat",
+            "provider_id": "cerebras"
+          },
+          {
+            "api_flavor": "default",
+            "provider_id": "databricks"
+          },
+          {
+            "api_flavor": "chat",
+            "provider_id": "databricks"
+          },
+          {
+            "api_flavor": "default",
+            "provider_id": "perplexity"
+          },
+          {
+            "api_flavor": "default",
+            "provider_id": "x-ai"
+          }
+        ],
+        "usage": {
           "input_tokens": 3329,
           "output_tokens": 53
         }
@@ -151165,6 +152309,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -151444,6 +152592,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -151719,6 +152871,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -151998,6 +153154,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -152275,6 +153435,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -152550,6 +153714,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -152847,6 +154015,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -153122,6 +154294,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -153401,6 +154577,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -153676,6 +154856,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -153955,6 +155139,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -154230,6 +155418,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -154509,6 +155701,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -154784,6 +155980,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -155072,36 +156272,8 @@
         "extractors": [
           {
             "api_flavor": "chat",
-            "provider_id": "anthropic"
+            "provider_id": "alibaba"
           },
-          {
-            "api_flavor": "chat",
-            "provider_id": "cerebras"
-          },
-          {
-            "api_flavor": "default",
-            "provider_id": "databricks"
-          },
-          {
-            "api_flavor": "chat",
-            "provider_id": "databricks"
-          },
-          {
-            "api_flavor": "default",
-            "provider_id": "perplexity"
-          },
-          {
-            "api_flavor": "default",
-            "provider_id": "x-ai"
-          }
-        ],
-        "usage": {
-          "input_tokens": 2649,
-          "output_tokens": 100
-        }
-      },
-      {
-        "extractors": [
           {
             "api_flavor": "default",
             "provider_id": "arcee"
@@ -155169,6 +156341,38 @@
         ],
         "usage": {
           "cache_read_tokens": 2569,
+          "input_tokens": 2649,
+          "output_tokens": 100
+        }
+      },
+      {
+        "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "anthropic"
+          },
+          {
+            "api_flavor": "chat",
+            "provider_id": "cerebras"
+          },
+          {
+            "api_flavor": "default",
+            "provider_id": "databricks"
+          },
+          {
+            "api_flavor": "chat",
+            "provider_id": "databricks"
+          },
+          {
+            "api_flavor": "default",
+            "provider_id": "perplexity"
+          },
+          {
+            "api_flavor": "default",
+            "provider_id": "x-ai"
+          }
+        ],
+        "usage": {
           "input_tokens": 2649,
           "output_tokens": 100
         }
@@ -155368,36 +156572,8 @@
         "extractors": [
           {
             "api_flavor": "chat",
-            "provider_id": "anthropic"
+            "provider_id": "alibaba"
           },
-          {
-            "api_flavor": "chat",
-            "provider_id": "cerebras"
-          },
-          {
-            "api_flavor": "default",
-            "provider_id": "databricks"
-          },
-          {
-            "api_flavor": "chat",
-            "provider_id": "databricks"
-          },
-          {
-            "api_flavor": "default",
-            "provider_id": "perplexity"
-          },
-          {
-            "api_flavor": "default",
-            "provider_id": "x-ai"
-          }
-        ],
-        "usage": {
-          "input_tokens": 2572,
-          "output_tokens": 100
-        }
-      },
-      {
-        "extractors": [
           {
             "api_flavor": "default",
             "provider_id": "arcee"
@@ -155465,6 +156641,38 @@
         ],
         "usage": {
           "cache_read_tokens": 2240,
+          "input_tokens": 2572,
+          "output_tokens": 100
+        }
+      },
+      {
+        "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "anthropic"
+          },
+          {
+            "api_flavor": "chat",
+            "provider_id": "cerebras"
+          },
+          {
+            "api_flavor": "default",
+            "provider_id": "databricks"
+          },
+          {
+            "api_flavor": "chat",
+            "provider_id": "databricks"
+          },
+          {
+            "api_flavor": "default",
+            "provider_id": "perplexity"
+          },
+          {
+            "api_flavor": "default",
+            "provider_id": "x-ai"
+          }
+        ],
+        "usage": {
           "input_tokens": 2572,
           "output_tokens": 100
         }
@@ -155662,6 +156870,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -155941,6 +157153,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -156216,6 +157432,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -156495,6 +157715,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -156770,6 +157994,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -157607,6 +158835,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -157882,6 +159114,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -158161,6 +159397,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -158436,6 +159676,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -158715,6 +159959,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -158990,6 +160238,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -159269,6 +160521,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -159544,6 +160800,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -159823,6 +161083,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -160098,6 +161362,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -160377,6 +161645,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -160652,6 +161924,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -160931,6 +162207,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -161206,6 +162486,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -161485,6 +162769,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -161762,6 +163050,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -162037,6 +163329,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -162322,6 +163618,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -162759,6 +164059,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -163066,6 +164370,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -163354,6 +164662,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -163614,6 +164926,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -163880,6 +165196,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -164204,6 +165524,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -164531,6 +165855,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -164795,6 +166123,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -165118,6 +166450,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -165408,6 +166744,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -165734,6 +167074,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -166058,6 +167402,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -166380,6 +167728,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -166707,6 +168059,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -167001,6 +168357,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -167265,6 +168625,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -167586,6 +168950,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -167913,6 +169281,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -168201,6 +169573,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -168468,6 +169844,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -168747,6 +170127,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -169022,6 +170406,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -169301,6 +170689,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -169576,6 +170968,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -169855,6 +171251,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -170132,6 +171532,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -170407,6 +171811,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -170815,6 +172223,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -171235,6 +172647,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -171510,6 +172926,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -171789,6 +173209,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -172064,6 +173488,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -172343,6 +173771,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -172618,6 +174050,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -172897,6 +174333,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -173172,6 +174612,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -173451,6 +174895,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -173726,6 +175174,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -174005,6 +175457,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -174280,6 +175736,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -174559,6 +176019,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -174834,6 +176298,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -177826,6 +179294,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -178101,6 +179573,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -178380,6 +179856,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -178655,6 +180135,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -178934,6 +180418,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -179209,6 +180697,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -179488,6 +180980,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -179763,6 +181259,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -186996,6 +188496,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -187304,6 +188808,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -187653,6 +189161,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -188468,6 +189980,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -188743,6 +190259,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -189022,6 +190542,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -189297,6 +190821,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -190410,6 +191938,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -190685,6 +192217,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -190964,6 +192500,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -191239,6 +192779,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -194008,6 +195552,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -194283,6 +195831,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -194562,6 +196114,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -194837,6 +196393,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -195116,6 +196676,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -195391,6 +196955,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -195670,6 +197238,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -195945,6 +197517,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -196224,6 +197800,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -196499,6 +198079,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -196778,6 +198362,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -197053,6 +198641,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -197332,6 +198924,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -197607,6 +199203,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -197886,6 +199486,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -198163,6 +199767,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -198430,6 +200038,10 @@
         "extractors": [
           {
             "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
+          {
+            "api_flavor": "chat",
             "provider_id": "anthropic"
           },
           {
@@ -198689,6 +200301,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "input_price": "0.000042",
@@ -198967,6 +200583,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
@@ -199315,6 +200935,10 @@
     "extracted": [
       {
         "extractors": [
+          {
+            "api_flavor": "chat",
+            "provider_id": "alibaba"
+          },
           {
             "api_flavor": "chat",
             "provider_id": "anthropic"
